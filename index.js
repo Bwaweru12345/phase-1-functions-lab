@@ -40,3 +40,5 @@ function calculatesFarePrice(d1, d2){
 
     }
 }
+
+// End of code
